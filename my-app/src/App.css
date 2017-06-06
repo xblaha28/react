@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  padding-top: 40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+h1{
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 15px; 
+  color: #285a86;
+}
+
+h1 i{
+  color: #ac2925;
+}
+
+th{
+  text-align: center;
+}
+
+p{
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.plus-button{
+  margin-right: 8px; 
+}
+
+.field-group{
+  text-align: left;
+}
+
+.control-label{
+  padding-left: 10px;
+}
