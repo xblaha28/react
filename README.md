@@ -1,1 +1,1 @@
-"# react" 
+npm start ve sloce react/my-app/ a react/my-app/src/
